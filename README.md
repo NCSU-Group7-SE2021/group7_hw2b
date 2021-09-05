@@ -18,7 +18,7 @@
 </p>
 
 
-This repository aims to provide a basic example of a `Good Reporsitory`. There are several ideas of what can we consider as a good repository. Some ideas of such projects that we all come across are:
+This repository aims to provide a basic example of a `Good Repository`. There are several ideas of what can we consider as a good repository. Some ideas of such projects that we all come across are:
 1. Well-defined project structure
 2. Good coding practices like indentations and comments
 3. A comprehensible ReadMe file (what we hope to provide with this one)
